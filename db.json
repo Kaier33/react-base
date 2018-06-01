@@ -1,0 +1,40 @@
+{
+  "record": [
+    {
+      "id": "1",
+      "date": "Thursday",
+      "title": "title 1",
+      "amout": 13
+    },
+    {
+      "id": "2",
+      "date": "Wednesday",
+      "title": "title 2",
+      "amout": 85
+    },
+    {
+      "id": "3",
+      "date": "Friday",
+      "title": "title 3",
+      "amout": 95
+    },
+    {
+      "id": "4",
+      "date": "Friday",
+      "title": "title 4",
+      "amout": 100
+    },
+    {
+      "id": "5",
+      "date": "Monday",
+      "title": "title 5",
+      "amout": 87
+    },
+    {
+      "id": "6",
+      "date": "Monday",
+      "title": "title6",
+      "amount": "6"
+    }
+  ]
+}
